@@ -65,8 +65,10 @@ img {
  .contact-form form {
     border-radius: 20px;
     padding: 30px;
+ }
 
-
+ .contact-form button {
+    margin: 5px;
  }
 
  footer {
@@ -80,3 +82,5 @@ img {
     font-size: 18;
     color: white;
   }
+
+ 
